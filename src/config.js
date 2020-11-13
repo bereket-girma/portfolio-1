@@ -7,10 +7,12 @@ const profile = {
   about: {
     title: `HEY THERE! 
     I'M WEBSITE OWNER`,
-    description: `Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-    veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-   
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis.`,
+    description: `I am a Web Developer based in Las Vegas.
+    I’ve built web applications using Node.js and React and have a solid foundation in web design and development. I've recently completed PunchCode’s 3 month web development bootcamp.
+    Before moving into development, I worked in the Health sector, where I managed and converted voice recordings that physicians and other healthcare workers make into written reports.
+    When I'm not coding, I enjoy spending time with family and learning different cultures and their languages. 
+    Right now  I am  looking for a suitable position with a company where outstanding performance is recognised and where I can work on a variety of projects.
+    `,
     findMeOn: [
       {
         iconName: 'location',
@@ -47,7 +49,7 @@ const profile = {
     // },
     {
       iconName: 'telegram',
-      url: 'https://t.me/username',
+      url: 'https://t.me/bgirma',
       text: "I'm on Telegram",
       hoverColor: '#0088cc'
     },
@@ -62,7 +64,13 @@ const profile = {
       url: 'mailto:bereketgirma97@gmail.com',
       text: 'Send me an email',
       hoverColor: '#000'
-    }
+    }, 
+    {
+      iconName: 'linkedin',
+      url: 'https://www.linkedin.com/in/bereket-girma-82a87a1b1/',
+      text: "I'm on LinkedIn",
+      hoverColor: '#000'
+    }, 
   ]
 }
 
