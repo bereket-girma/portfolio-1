@@ -1,9 +1,9 @@
 const profile = {
   fullName: "Bereket Girma",
-  description: "FULLSTACK DEVELOPER",
+  description: "Fullstack Developer",
   // The basepath is the assets folder
   /// the file sould be imported in assets-import.js
-  avatarPath: "avatar.svg",
+  avatarPath: "bereketCircle.png",
   about: {
     title: `HEY THERE! 
     I'M WEBSITE OWNER`,
@@ -96,7 +96,7 @@ const projects = [
   },
   {
     title: "Terra & Mare Restaurant",
-    img: "https://lh4.googleusercontent.com/Eet95KOwx5-41DUOpu2WqgvHBcMFNe8YGOtCTU2p6VRyTHYp-_TyclyROxK2hLN7ZL5xV6FG3qIBT6OWX7DjO0ZpaAyPb-uPN0qDKNYcVlh3lkgjrxJ2omGjSj3IL-Np9qL10g5p06M",
+    img: "",
     description:
       "Lorem ipsum dolor sit amet, in nulla hendrerit ius, sed et congue graeci, qui id propriae accusata.",
     categories: ["Javascript"],
