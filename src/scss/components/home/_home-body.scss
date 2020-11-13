@@ -24,6 +24,7 @@
         svg {
             width: 28px;
             transition: fill .2s;
+            // height: 24px;
 
             &:not(:hover) { fill: #263238!important; }
         }

@@ -86,10 +86,10 @@ const projects = [
     sourceCodeUrl: "https://github.com/bereket-girma/Vegas-Land",
   },
   {
-    title: "Jellow App",
+    title: "Jellow",
     img: "https://lh4.googleusercontent.com/Eet95KOwx5-41DUOpu2WqgvHBcMFNe8YGOtCTU2p6VRyTHYp-_TyclyROxK2hLN7ZL5xV6FG3qIBT6OWX7DjO0ZpaAyPb-uPN0qDKNYcVlh3lkgjrxJ2omGjSj3IL-Np9qL10g5p06M",
     description:
-      "Lorem ipsum dolor sit amet, in nulla hendrerit ius, sed et congue graeci, qui id propriae accusata.",
+      "A web-based Kanban-style list-making application.",
     categories: ["Sample",  "React"],
     // siteUrl: "https://amazing.project.com",
     sourceCodeUrl:"https://github.com/bereket-girma/Jellow-App"
