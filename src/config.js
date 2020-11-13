@@ -1,6 +1,6 @@
 const profile = {
-  fullName: 'Website Owner',
-  description: 'FRONT-END DEVELOPER',
+  fullName: 'Bereket Girma',
+  description: 'FULLSTACK DEVELOPER',
   // The basepath is the assets folder
   /// the file sould be imported in assets-import.js
   avatarPath: 'avatar.svg',
@@ -14,37 +14,37 @@ const profile = {
     findMeOn: [
       {
         iconName: 'location',
-        text: 'Location, Place',
+        text: 'Las Vegas, NV',
         url: '',
         hoverColor: '#546e7a'
       },
-      {
-        iconName: 'twitter',
-        text: '@username',
-        url: 'https://twitter.com/username',
-        hoverColor: '#1da1f2'
-      },
+      // {
+      //   iconName: 'twitter',
+      //   text: '@username',
+      //   url: 'https://twitter.com/username',
+      //   hoverColor: '#1da1f2'
+      // },
       {
         iconName: 'email',
-        text: 'email@email.com',
-        url: 'mailto://email@email.com',
+        text: 'bereketgirma97@gmail.com',
+        url: 'mailto://bereketgirma97@gmail.com',
         hoverColor: '#546e7a'
       },
-      {
-        iconName: 'lock',
-        text: '@kuser',
-        url: 'https://keybase.io/kuser',
-        hoverColor: '#e9641c'
-      }
+      // {
+      //   iconName: 'lock',
+      //   text: '@kuser',
+      //   url: 'https://keybase.io/kuser',
+      //   hoverColor: '#e9641c'
+      // }
     ]
   },
   social: [
-    {
-      iconName: 'twitter',
-      url: 'https://twitter.com/username',
-      text: "I'm on Twitter",
-      hoverColor: '#1da1f2'
-    },
+    // {
+    //   iconName: 'twitter',
+    //   url: 'https://twitter.com/username',
+    //   text: "I'm on Twitter",
+    //   hoverColor: '#1da1f2'
+    // },
     {
       iconName: 'telegram',
       url: 'https://t.me/username',
@@ -53,13 +53,13 @@ const profile = {
     },
     {
       iconName: 'github',
-      url: 'https://github.com/username',
+      url: 'https://github.com/bereket-girma',
       text: "I'm on Github",
       hoverColor: '#000'
     },
     {
       iconName: 'email',
-      url: 'mailto:email@email.co',
+      url: 'mailto:bereketgirma97@gmail.com',
       text: 'Send me an email',
       hoverColor: '#000'
     }
