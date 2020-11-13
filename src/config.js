@@ -80,28 +80,39 @@ const projects = [
     title: "Vegas Land",
     img: "https://raw.githubusercontent.com/bereket-girma/Vegas-Land/19b45bcdc1656b5e4643eba6b5064b5c1a36ac0d/client/public/assets/logo-062.svg",
     description:
-      "Lorem ipsum dolor sit amet, in nulla hendrerit ius, sed et congue graeci, qui id propriae accusata.",
-    categories: ["Sample", "Open source", "React"],
-    siteUrl: "https://amazing.project.com",
+      "A curated website made for people to explore downtown Vegas' restaurants, bars, shops & experiences. One of its main features include \"Happy Hours\", which displays active happy hours located in downtown. ", 
+    categories: ["Sample",  "React"],
+    // siteUrl: "https://amazing.project.com",
     sourceCodeUrl: "https://github.com/bereket-girma/Vegas-Land",
   },
   {
     title: "Jellow App",
-    img: "https://www.nethruster.com/assets/img/icons/apple-touch-icon.png",
+    img: "https://lh4.googleusercontent.com/Eet95KOwx5-41DUOpu2WqgvHBcMFNe8YGOtCTU2p6VRyTHYp-_TyclyROxK2hLN7ZL5xV6FG3qIBT6OWX7DjO0ZpaAyPb-uPN0qDKNYcVlh3lkgjrxJ2omGjSj3IL-Np9qL10g5p06M",
     description:
       "Lorem ipsum dolor sit amet, in nulla hendrerit ius, sed et congue graeci, qui id propriae accusata.",
-    categories: ["Sample", "Open source", "React"],
-    siteUrl: "https://amazing.project.com",
+    categories: ["Sample",  "React"],
+    // siteUrl: "https://amazing.project.com",
     sourceCodeUrl:"https://github.com/bereket-girma/Jellow-App"
   },
   {
-    title: "Project Title #3",
-    img: "https://www.nethruster.com/assets/img/wareader.svg",
+    title: "Terra & Mare Restaurant",
+    img: "https://lh4.googleusercontent.com/Eet95KOwx5-41DUOpu2WqgvHBcMFNe8YGOtCTU2p6VRyTHYp-_TyclyROxK2hLN7ZL5xV6FG3qIBT6OWX7DjO0ZpaAyPb-uPN0qDKNYcVlh3lkgjrxJ2omGjSj3IL-Np9qL10g5p06M",
     description:
       "Lorem ipsum dolor sit amet, in nulla hendrerit ius, sed et congue graeci, qui id propriae accusata.",
-    categories: ["Wat", "Linux", "LoL"],
-    sourceCodeUrl: "https://github.com/user/:O",
+    categories: ["Javascript"],
+    // siteUrl: "https://amazing.project.com",
+    sourceCodeUrl:"https://github.com/bereket-girma/12-group-restaurant"
   },
+  {
+    title: "Hex Clock ",
+    img: "https://lh4.googleusercontent.com/oAJGJ2_TmF3uBm7KUgvIfZc7zHucevLJ73hzWRKfHqF-Y7IvTTswuPi0dIor2bLafO8XApjA-RU61aK4yi8hLZN8_4GAcmVSBWxKm76-",
+    description:
+      "Color changing clock based on current time converted to hex color codes",
+    categories: [ "Open Source", "Javascript"],
+    sourceCodeUrl: "https://github.com/bereket-girma/10-JS-clock",
+  },
+  
+
 ];
 
 const formUrl = "http://localhost:4000";
