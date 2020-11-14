@@ -96,7 +96,7 @@ const projects = [
   },
   {
     title: "Terra & Mare Restaurant",
-    img: "",
+    img: "https://lh6.googleusercontent.com/5QXjkU4Vte9sSOtDQWLMyPXwW42mUgqkKyIFiiWMeibCIFLkN7CqP85v-5eWqolKodgfG0UNRzOEeaaMZC9l7YY3SKY6kGQqaheto9nTyqQwXcEpnxAXqvCMrsmMHqvrk2Be6FFChu8",
     description:
       "Lorem ipsum dolor sit amet, in nulla hendrerit ius, sed et congue graeci, qui id propriae accusata.",
     categories: ["Javascript"],
