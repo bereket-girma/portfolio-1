@@ -6,7 +6,7 @@ const profile = {
   avatarPath: "bereketCircle.png",
   about: {
     title: `HEY THERE! 
-    I'M WEBSITE OWNER`,
+    `,
     description: `I am a Web Developer based in Las Vegas.
     I’ve built web applications using Node.js and React and have a solid foundation in web design and development. I've recently completed PunchCode’s web development bootcamp.
     Before moving into development, I worked in the Health sector, where I managed and converted voice recordings that physicians and other healthcare workers make into written reports.
