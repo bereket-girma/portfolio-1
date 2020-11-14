@@ -7,10 +7,8 @@ const profile = {
   about: {
     title: `HEY THERE! 
     `,
-    description: `I am a Web Developer based in Las Vegas.
-    I’ve built web applications using Node.js and React and have a solid foundation in web design and development. I've recently completed PunchCode’s web development bootcamp.
-    Before moving into development, I worked in the Health sector, where I managed and converted voice recordings that physicians and other healthcare workers make into written reports.
-    When I'm not coding, I enjoy spending time with family and learning different cultures and their languages. 
+    description: `I am a Web Developer based in Las Vegas. I’ve built web applications using Node.js and React and have a solid foundation in web design and development. I've recently completed PunchCode’s web development bootcamp. Before moving into development, I worked in the Health sector, where I managed and converted voice recordings that physicians and other healthcare workers make into written reports.
+    When I'm not coding, I enjoy learning different cultures and their languages. 
     Right now  I am  looking for a suitable position with a company where outstanding performance is recognised and where I can work on a variety of projects.
     `,
     findMeOn: [
